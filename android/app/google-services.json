@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514563060437",
+    "project_id": "onesignal-fcm-example",
+    "storage_bucket": "onesignal-fcm-example.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514563060437:android:47aee381fbde2b17c0a85c",
+        "android_client_info": {
+          "package_name": "com.andreyquadros.onesignalfcmpush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABLBMmWleSBZLB7d7rDX7fKLF0aka5cDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
